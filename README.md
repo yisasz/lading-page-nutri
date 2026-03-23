@@ -20,4 +20,4 @@ Landing page responsiva desenvolvida com foco em experiência do usuário, organ
 
 ## Link para acessar a landing page:
 
-https://yisasz.github.io/nutri-landing-page/
+https://yisasz.github.io/lading-page-nutri/
